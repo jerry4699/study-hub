@@ -1,0 +1,7 @@
+{
+  "name": "StudyHub",
+  "description": "A collaborative EdTech platform designed to make learning resources and student work easily accessible. Features AI-powered study assistance, resource sharing, and a student dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
